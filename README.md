@@ -1,5 +1,5 @@
 
-#  Hotel Website
+#  Travel Website
 
 Responsive Travel Website using html css & javascript
 
